@@ -11,7 +11,8 @@ You need to place the following m-files in the same folder.
 - `MCSS2022_Section5.m`: main program for the numerical example in Section 5
 - `MCSS2022_Section6.m`: main program for the numerical example in Section 6
 ### Sub programs
-- `get_mat2.m`
+- `controller_realization.m`
+-  `get_mat2.m`
 - `hard_thresholding.m`
 - `Proj_LMI.m`
 - `Proj_rank.m`
